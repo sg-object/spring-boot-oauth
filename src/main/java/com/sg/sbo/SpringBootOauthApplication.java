@@ -9,5 +9,4 @@ public class SpringBootOauthApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootOauthApplication.class, args);
 	}
-
 }
